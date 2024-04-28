@@ -4,7 +4,6 @@
 conda create -p venv python=3.10
 create .env file
 
-to run: streamlit run app.py
+Install package: pip install -r requirements.txt
 
-"# Gen-AI" 
-"# Gen-AI" 
+To run: streamlit run app.py
